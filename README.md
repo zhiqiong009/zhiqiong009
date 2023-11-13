@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="" target="_blank"><img src="https://img.shields.io/badge/#00599C?style=flat-square&logo=c++&logoColor=#000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/c++-#00599C?style=flat-square&logo=c++&logoColor=#000000"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiqiong009&show_icons=true&theme=radical)
 
