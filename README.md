@@ -1,8 +1,8 @@
 ### Hi there 👋
-<a href="" target="_blank"><img src="https://img.shields.io/badge/c++-#00599C?style=flat-square&logo=c++&logoColor=#000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&Color=444444"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&Color=000000"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiqiong009&show_icons=true&theme=radical)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zhiqiong)](https://solved.ac/zhiqiong/)
 
 <!--
 **zhiqiong009/zhiqiong009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
